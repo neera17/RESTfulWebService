@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Tribago Home</title>
+
+<style type="text/css">
+
+body {
+   background-color: lime;
+}
+
+</style>
+
+</head>
+<body>
+
+   <h3>How to say Hello?</h3>
+   <h2><a href = "http://localhost:8080/HelloWebService/zenrest/zenhello"></a></h2>
+
+</body>
+</html>
